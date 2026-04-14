@@ -26,8 +26,8 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/response-distribution-analysis.git
-   cd response-distribution-analysis
+  git clone https://github.com/SamInMotion/company-health-survey-analysis.git
+   cd company-health-survey-analysis
 Dependencies
 The project requires the following Python libraries:
 
